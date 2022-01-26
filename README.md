@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello Everyone! I'm Seth Chong </h3>
+<h3 align="center">👋 Hello Everyone! </h3>
 <p align="center">
   <a href="https://twitter.com/Seth_Chong_">Twitter</a> &nbsp;
   <a href="https://www.linkedin.com/in/seth-chong-653170218/">Linkedin</a>
