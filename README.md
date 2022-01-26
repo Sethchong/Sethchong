@@ -5,7 +5,7 @@
 </p>
 
 ---
-I'm currently an undergraduate from Nanyang Technological University (NTU) based in :singapore: Singapore! 
+I'm an undergraduate from Nanyang Technological University (NTU) based in :singapore: Singapore! 
 <br>
 Right now I am based in :us: San Francisco for my internship with Okcoin as a Product Analyst Intern! 
 
