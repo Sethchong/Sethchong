@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @Sethchong
-- 👀 I’m interested in data analysis and blockchain technology
-- 🌱 I’m currently learning SQL and Python as well as Solidity
+<h3 align="center">👋 Hello Everyone! I'm Seth Chong </h3>
+<p align="center">
+  <a href="https://twitter.com/Seth_Chong_">Twitter</a> &nbsp;
+  <a href="https://www.linkedin.com/in/seth-chong-653170218/">Linkedin</a>
+</p>
 
-- 📫 You can reach me: 
-Twitter: @Seth_Chong_ 
-Linkedin: https://www.linkedin.com/in/seth-chong-653170218/
+---
+I'm currently an undergraduate from Nanyang Technological University (NTU) based in :singapore: Singapore! 
+<br>
+Right now I am based in :us: San Francisco for my internship with Okcoin as a Product Analyst Intern! 
+
+Hoping to learn more from this amazing community!
+
+📚 Currently Working on: <a href="https://8weeksqlchallenge.com/case-study-1/">8 weeks SQL Challenge by Danny</a> 
+  
+
+<!--
+**lauragift21/lauragift21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!---
 Sethchong/Sethchong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
