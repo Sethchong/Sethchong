@@ -5,14 +5,14 @@
 </p>
 
 ---
-I'm an undergraduate from Nanyang Technological University (NTU) based in :singapore: Singapore! 
+I'm an undergraduate from Nanyang Technological University (NTU) in :singapore: Singapore! 
 <br>
 Right now I am based in :us: San Francisco for my internship with Okcoin as a Product Analyst Intern! 
 
 Hoping to learn more from this amazing community!
 
 📚 Currently Working on: <a href="https://8weeksqlchallenge.com/case-study-1/">8 weeks SQL Challenge by Danny</a> 
-  
+  and learning more about data warehouse! 
 
 <!--
 **lauragift21/lauragift21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
