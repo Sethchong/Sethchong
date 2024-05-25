@@ -5,13 +5,14 @@
 </p>
 
 ---
-I'm an undergraduate from Nanyang Technological University (NTU) in :singapore: Singapore! 
+Graduated from Nanyang Technological University (NTU) in :singapore: Singapore and currently serving in the Republic of Singapore Navy 
 <br>
-Right now I am based in :us: San Francisco for my internship with Okcoin as a Product Analyst Intern! 
+However, I am very interested in learning and building tech stuff and this Github is really just a place for me to store my projects 
 
 
 
-📚 Currently Working on: Using Blockchain for decentralized identity 
+📚 Currently Working on: Expense Tracker App 
+🌱 I’m currently learning Web Development
 
 <!--
 **lauragift21/lauragift21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
