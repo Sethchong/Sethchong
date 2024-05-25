@@ -5,9 +5,10 @@
 </p>
 
 ---
-Graduated from Nanyang Technological University (NTU) in :singapore: Singapore and currently serving in the Republic of Singapore Navy 
+Graduated from Nanyang Technological University (NTU) in :singapore: Singapore and did my internship in San Francisco as a Product Analyst with a crypto exchange. Currently serving in the Republic of Singapore Navy 
 <br>
-However, I am very interested in learning and building tech stuff and this Github is really just a place for me to store my projects 
+
+I am very interested in learning and building tech stuff and this Github is really just a place for me to store my projects! 
 
 
 
